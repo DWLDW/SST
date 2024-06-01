@@ -1,0 +1,34 @@
+[
+  {
+    "v": "2",
+    "ps": "vless server 1",
+    "add": "140.238.13.119",
+    "port": "18150",
+    "id": "bf5ba3fe-7288-4f25-fb77-2a6f461e9c2d",
+    "aid": "0",
+    "scy": "none",
+    "net": "tcp",
+    "type": "none",
+    "host": "",
+    "path": "",
+    "tls": "",
+    "sni": "",
+    "alpn": ""
+  },
+  {
+    "v": "2",
+    "ps": "vless server 2",
+    "add": "146.56.161.48",
+    "port": "59863",
+    "id": "825bb341-99fa-44a2-9422-ca5feb4daa4d",
+    "aid": "0",
+    "scy": "none",
+    "net": "tcp",
+    "type": "none",
+    "host": "",
+    "path": "",
+    "tls": "",
+    "sni": "",
+    "alpn": ""
+  }
+]
